@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 #-- coding: utf-8 --
 
-import RPi.GPIO as GPIO #Importe la bibliothèque pour contrôler les GPIOs
+import RPi.GPIO as GPIO #Импортируйте библиотеку для управления GPIO.
 
-GPIO.setmode(GPIO.BOARD) #Définit le mode de numérotation (Board)
-GPIO.setwarnings(False) #On désactive les messages d'alerte
+GPIO.setmode(GPIO.BOARD) #Устанавливает режим набора номера (Доска)
+GPIO.setwarnings(False) #Мы деактивируем оповещения
 
-LED = 7 #Définit le numéro du port GPIO qui alimente la led
+LED = 7 #Определяет номер порта GPIO, от которого питается светодиод.
 
-GPIO.setup(LED, GPIO.OUT) #Active le contrôle du GPIO
+GPIO.setup(LED, GPIO.OUT) #Включает управление GPIO
 
-state = GPIO.input(LED) #Lit l'état actuel du GPIO, vrai si allumé, faux si éteint
+state = GPIO.input(LED) #Считывает текущий статус GPIO: true, если включено, false, если выключено.
 
-if state : #Si GPIO allumé
-    GPIO.output(LED, GPIO.LOW) #On l’éteint
+if state : #Если GPIO включен
+    GPIO.output(LED, GPIO.LOW) #Мы выключим его
 else : #Sinon
-    GPIO.output(LED, GPIO.HIGH) #On l'allume
+    GPIO.output(LED, GPIO.HIGH) #Мы зажигаем его

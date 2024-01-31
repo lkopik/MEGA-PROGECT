@@ -1,2 +1,2 @@
 # MEGA-PROGECT
-это наш основной рекпозиторий проекта "CyberFestTobol"
+это наш основной репозиторий проекта "CyberFestTobol"

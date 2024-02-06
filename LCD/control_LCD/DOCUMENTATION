@@ -3,7 +3,7 @@ FILE INDEX.HTML
 
 
 
-файл index.html находится на raspberry pi в каталоге /var/www/html/index.html 
+файл index.html находится на raspberry pi в каталоге /var/www/html/index.htm
 этот сайт(файл) создает открытую страничку на ip адресе raspberry pi порт 80.
 в этой страничке указан пароль и логин от ssh LCD (логин LCD, пароль 333).
 
@@ -21,7 +21,7 @@ FILE START_OR_STOP.py
 FILE inspircd.conf
 
 
-этот файл находится в дериктории /etc/inspircd/inspircd.conf
+этот файл находится в дериктории /etc/ircd-hybrid/ircd.conf
 это конфиг IRC сервера который расположен на портах 6666, 6667, 6668, 6669
 *IRC сервер - что-то типо месенджера для думеров в терминале.
 этот irc сервер имеет в себе учетную запись Admin (чтобы её посмотреть необходимо подключится к серверу через инструмент irssl

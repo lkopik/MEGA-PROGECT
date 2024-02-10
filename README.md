@@ -13,6 +13,6 @@ They are working on the project:
 
 - **Front end developer**: _Meleshkin Alexandr_ <SuzumiHino> (tg: <https://t.me/SuzumiHino>)
 
-- **Bakc end devevloper**: _Leonid Kopotilov_ <lkopik> (tg: <https://t.me/Elita7617>)
+- **Back end devevloper**: _Leonid Kopotilov_ <lkopik> (tg: <https://t.me/Elita7617>)
 
 - **Designer**: _Yulia Kamaeva_ (tg: <https://t.me/happy_face_F>)

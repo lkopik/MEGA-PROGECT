@@ -1,9 +1,18 @@
-# MEGA-PROGECT
+# CyberFestTobol®
 
 It's the tech part of "CyberFestTobol"
 
-- Teamleader: Nikolay Tarkov (tg: <https://t.me/ntarkov>)
-- DevOps: lkopik (tg: <https://t.me/Elita7617>)
-- Coders: SuzumiHino ^-^ (tg: <https://t.me/SuzumiHino>), lkopik (tg: <https://t.me/Elita7617>)
-- Designer: Yulia (tg: <https://t.me/happy_face_F>)
-- Docxer: Arseniy Stikin (tg: <https://t.me/Arsenijstik>)
+They are working on the project:
+- **Product manager**: _Nikolay Tarkov_ (tg: <https://t.me/ntarkov>)
+
+- **Team leader**: _Leonid Kopotilov_ lkopik (tg: <https://t.me/Elita7617>)
+
+- **DevOps**: _Leonid Kopotilov_ lkopik (tg: <https://t.me/Elita7617>)
+
+- **Project manager**: _Arseniy Stikin_ (tg: <https://t.me/Arsenijstik>)
+
+- **Front end developer**: _Meleshkin Alexandr_ SuzumiHino (tg: <https://t.me/SuzumiHino>)
+
+- **Back end developer**: _Leonid Kopotilov_ lkopik (tg: <https://t.me/Elita7617>)
+
+- **Designer**: _Yulia Kamaeva_ (tg: <https://t.me/happy_face_F>)

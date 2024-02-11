@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-import markdown.markdown as md
+import markdown as md
 from os import system
 
 sg.theme('DarkAmber')

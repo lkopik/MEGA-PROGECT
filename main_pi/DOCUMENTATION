@@ -6,3 +6,8 @@ FILE hp.txt - это общее количество hp у всего город
 
 
 FILE ssh_change_num - это файл который должен находится на каждой малине (air, chp, lcd) он создан для изменения хп на главной малине
+
+
+FILE apsys.service находтся в /etc/systemd/system/apsys.service и преднозначен для актвации wifi раздачи на raspberry pi.
+на main раздается wifi с ssid "main" и паролем "20182007".
+к main подключаются все оставльные малины. 

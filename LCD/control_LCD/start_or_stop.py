@@ -1,7 +1,7 @@
-#!/usr/bin/env python3
-#-- coding: utf-8 --
-
+import os
 import RPi.GPIO as GPIO #Importe la bibliothèque pour contrôler les GPIOs
+
+os.system("bash /home/LCD/control_LCD/ssh_change_num.sh")
 
 GPIO.setmode(GPIO.BOARD) #Définit le mode de numérotation (Board)
 GPIO.setwarnings(False) #On désactive les messages d'alerte
@@ -16,3 +16,5 @@ if state : #Si GPIO allumé
     GPIO.output(LED, GPIO.LOW) #On l’éteint
 else : #Sinon
     GPIO.output(LED, GPIO.HIGH) #On l'allume
+
+

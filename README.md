@@ -9,6 +9,8 @@ They are working on the project:
 
 - **DevOps**: _Leonid Kopotilov_ lkopik (tg: <https://t.me/Elita7617>)
 
+- **QA engeener**: _Meleshkin Alexandr_ SuzumiHino (tg: <https://t.me/SuzumiHino>)
+
 - **Project manager**: _Arseniy Stikin_ (tg: <https://t.me/Arsenijstik>)
 
 - **Front end developer**: _Meleshkin Alexandr_ SuzumiHino (tg: <https://t.me/SuzumiHino>)

@@ -26,6 +26,20 @@
 
 
 Создаю main pi логин main пароль 20182007. название в локальной сети main.local. подключается к сети Kvantorium
-  
+
+сделал раздачу wifi с wlan0 на wlan1.
+
+
+FILE apsys.service находтся в /etc/systemd/system/apsys.service и преднозначен для актвации wifi раздачи на raspberry pi.
+на main раздается wifi с ssid "main" и паролем "20182007".
+к main подключаются все оставльные малины.
+
+
+FILES ssh_change_num.sh и start_or_stop.py отвечают за включение, выключение светодиода(.py). А так же запускает bash скрипт,
+который отнимает значение у hp.txt.
+
+
+
+"В ЗАДУМКЕ хилл поинты (добавление к hp значения)"
 
 

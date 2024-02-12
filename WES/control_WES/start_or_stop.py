@@ -1,7 +1,7 @@
 import os
 import RPi.GPIO as GPIO #Importe la bibliothèque pour contrôler les GPIOs
 
-os.system("bash /home/air/control_AIR/ssh_change_num.sh")
+os.system("bash /home/WES/control_WES/ssh_change_num.sh")
 
 GPIO.setmode(GPIO.BOARD) #Définit le mode de numérotation (Board)
 GPIO.setwarnings(False) #On désactive les messages d'alerte

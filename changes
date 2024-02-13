@@ -38,6 +38,7 @@ FILE apsys.service находтся в /etc/systemd/system/apsys.service и пр
 FILES ssh_change_num.sh и start_or_stop.py отвечают за включение, выключение светодиода(.py). А так же запускает bash скрипт,
 который отнимает значение у hp.txt.
 
+вместо 1 файла start/stop реализованны 2.
 
 
 "В ЗАДУМКЕ хилл поинты (добавление к hp значения)"

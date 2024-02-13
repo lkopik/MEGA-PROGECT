@@ -1,5 +1,5 @@
 sudo apt update && sudo apt upgrade
-sudo apt update && sudo apt install build-essential git dkms bc samba samba-common-bin
+sudo apt install build-essential git dkms bc samba samba-common-bin
 
 
 

@@ -1,6 +1,13 @@
 sudo apt update && sudo apt upgrade
+sudo apt update && sudo apt install build-essential git dkms bc samba samba-common-bin
 
-sudo apt install samba samba-common-bin
+
+
+#install wifi drivers
+git clone https://github.com/morrownr/8821cu-20210916.git
+cd 8821cu-20210916
+sudo ./install-driver.sh
+
 
 echo "[myshare]
 comment = Samba на Linux

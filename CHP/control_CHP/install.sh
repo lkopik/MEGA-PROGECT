@@ -1,5 +1,5 @@
 sudo apt update && sudo apt upgrade
-sudo apt install build-essential git dkms bc samba samba-common-bin hostpad fimware-realtek
+sudo apt install build-essential git dkms bc samba samba-common-bin hostpad fimware-realtek sshpass
 
 echo "[myshare]
 comment = Samba на Linux

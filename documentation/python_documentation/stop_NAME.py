@@ -11,7 +11,7 @@ GPIO.setup(7, GPIO.OUT)
 
 if GPIO.input(7):
     print("Выключение ТЭЦ через 5 минут. пожалуйста не прекращайте процесс.")
-    time.sleep(10)
+    time.sleep(300)
     print("Выключение.")
     time.sleep(5)
     GPIO.output(7, GPIO.LOW)

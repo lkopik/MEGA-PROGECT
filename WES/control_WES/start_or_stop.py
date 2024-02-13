@@ -1,3 +1,4 @@
+#ЗАПУСКАТЬ ОТ ИМЕНИ ПОЛЬЗОВАТЕЛЯ
 import os
 import RPi.GPIO as GPIO #Importe la bibliothèque pour contrôler les GPIOs
 

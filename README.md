@@ -7,7 +7,7 @@ They are working on the project:
 
 - **Team leader, DevOps, Back end developer**: _Leonid Kopotilov_ lkopik (tg: <https://t.me/Elita7617>)
 
-- **QA engeener, Front end developer**: _Meleshkin Alexandr_ SuzumiHino (tg: <https://t.me/SuzumiHino>)
+- **QA engeener, Front end developer, Web-designer**: _Meleshkin Alexandr_ SuzumiHino (tg: <https://t.me/SuzumiHino>)
 
 - **Project manager**: _Arseniy Stikin_ (tg: <https://t.me/Arsenijstik>)
 

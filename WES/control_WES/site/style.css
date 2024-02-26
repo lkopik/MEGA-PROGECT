@@ -1,0 +1,26 @@
+// .css file for login site of WES/control_WES
+
+body
+{
+    width: 100%;
+    height: 100%;
+    background-color: #8AB2FF;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-in-area
+{
+    display: flex;
+    width: ;
+    height: ;
+    padding: 31px;
+    background-color: #D9D9D9;
+    border-radius: 40px
+}
+
+.login-area .password-area .sign-in-button
+{
+    font-family: Inter;
+    background-color: #AAAAAA;
+}

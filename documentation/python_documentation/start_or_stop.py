@@ -1,7 +1,15 @@
-#!/usr/bin/env python3
-#-- coding: utf-8 --
+#версия 2.0 с выполнением bash скрипта. который вычитает значение из файла на сервере main.
 
+#########################################
+
+#ЗАПУСКАТЬ ОТ ИМЕНИ ПОЛЬЗОВАТЕЛЯ
+
+#########################################
+
+import os
 import RPi.GPIO as GPIO #Importe la bibliothèque pour contrôler les GPIOs
+
+os.system("bash /home/"NAME"/control_"NAME"/ssh_change_num.sh")
 
 GPIO.setmode(GPIO.BOARD) #Définit le mode de numérotation (Board)
 GPIO.setwarnings(False) #On désactive les messages d'alerte
@@ -16,3 +24,4 @@ if state : #Si GPIO allumé
     GPIO.output(LED, GPIO.LOW) #On l’éteint
 else : #Sinon
     GPIO.output(LED, GPIO.HIGH) #On l'allume
+

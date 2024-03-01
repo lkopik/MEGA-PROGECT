@@ -11,6 +11,8 @@ They are working on the project:
 
 - **Project manager**: _Arseniy Stikin_ (tg: <https://t.me/Arsenijstik>)
 
+- **Engeener**: _Artem Likhaletov_ (tg: <https://t.me/artyomlakhaletov>)
+
 - **Designers**:
   + _Yulia Kamaeva_ (tg: <https://t.me/happy_face_F>)
   + _Polina Korman_ (tg: <https://t.me/Looking_at_salt>)

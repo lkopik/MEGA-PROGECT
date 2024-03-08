@@ -3,7 +3,7 @@ Description=apsys
 
 [Service]
 Type=oneshot
-ExecStart=/bin/bash -c "sleep 20 && python /home/air/control_AIR/start_AIR.py"
+ExecStart=/bin/bash -c "sleep 20 && python /home/chp/control_CHP/start_CHP.py"
 
 [Install]
 WantedBy=multi-user.target

@@ -1,0 +1,9 @@
+[Unit]
+Description=apsys
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -c "sleep 20 && create_ap --no-virt -g 192.168.0.1 wlan1 wlan0 chp 97585433"
+
+[Install]
+WantedBy=multi-user.target

@@ -2,6 +2,8 @@
 
 It's the team of "CyberFestTobol"
 
+**Site of a project**: <https://github.com/SuzumiHino/CyberFest_MegaProject.git>
+
 ----
 
 They are working on the project:

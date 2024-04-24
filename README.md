@@ -17,7 +17,7 @@ They are working on the project:
   
   tg: <https://t.me/Elita7617>
   
-  email: <@>
+  email: <lkop228228@gmail.com>
 
 - **QA engeener, Front end developer, Web-designer**: _Meleshkin Alexandr_
   

@@ -15,9 +15,6 @@ They are working on the project:
 
 - **Team leader, DevOps, Back end developer**: _Leonid Kopotilov_
   
-  tg: <https://t.me/Elita7617>
-  
-  email: <lkop228228@gmail.com>
 
 - **QA engeener, Front end developer, Web-designer**: _Meleshkin Alexandr_
   
